@@ -1,0 +1,5 @@
+{
+  "name": "Equação na Balança",
+  "description": "Um jogo visual e interativo para ajudar estudantes a entender e resolver equações de primeiro grau, representando-as como uma balança que precisa ser equilibrada.",
+  "requestFramePermissions": []
+}
